@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>World Forge</title>
+</head>
+
+<header id="inicio">
+    <div class="container">
+        <h1>World Forge</h1>
+        <p>Crie, explore e compartilhe mundos incríveis.</p>
+
+        <nav>
+            <ul>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#recursos">Recursos</a></li>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#mundos">Mundos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main>
+ <body>
+    <section class="hero">
+        <div class="container">
+            <h2>Bem-vindo ao World Forge!</h2>
+
+            <p>
+                Explore, crie e compartilhe suas aventuras em um mundo de
+                possibilidades infinitas.
+            </p>
+
+            <a class="botao" href="#recursos">Conheça nossos recursos</a>
+        </div>
+    </section>
+
+    <section id="recursos">
+        <div class="container">
+            <h2>Recursos</h2>
+
+            <p>
+                O World Forge oferece ferramentas para que jogadores e
+                criadores possam desenvolver suas próprias experiências.
+            </p>
+
+            <ul class="lista-recursos">
+                <li>Criação de mundos personalizados</li>
+                <li>Ferramentas de construção avançadas</li>
+                <li>Comunidade ativa e colaborativa</li>
+                <li>Eventos e desafios regulares</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="sobre">
+        <div class="container">
+            <h2>Sobre Nós</h2>
+
+            <article>
+                <h3>Uma comunidade de criadores</h3>
+
+                <p>
+                    O World Forge é uma plataforma dedicada a jogadores e
+                    criadores de conteúdo que desejam explorar sua
+                    criatividade e compartilhar suas experiências com
+                    outros entusiastas.
+                </p>
+
+                <p>
+                    Nosso objetivo é proporcionar um espaço onde diferentes
+                    ideias possam ser transformadas em mundos e aventuras.
+                </p>
+            </article>
+        </div>
+    </section>
+
+    <section id="mundos">
+        <div class="container">
+            <h2>Mundos em Destaque</h2>
+
+            <p>
+                Confira alguns exemplos de experiências que podem ser
+                criadas dentro do World Forge.
+            </p>
+
+            <div class="galeria">
+
+                <figure>
+                    <img src="https://www.worldforge.com/logo.png"
+                        alt="Logo do World Forge">
+                    <figcaption>Identidade do World Forge</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://www.worldforge.com/banner.jpg"
+                        alt="Banner do World Forge">
+                    <figcaption>Um mundo de possibilidades</figcaption>
+                </figure>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="como-funciona">
+        <div class="container">
+            <h2>Como Criar seu Mundo</h2>
+
+            <ol>
+                <li>Escolha o tema e o estilo do seu mundo.</li>
+                <li>Utilize as ferramentas de construção disponíveis.</li>
+                <li>Adicione personagens, cenários e desafios.</li>
+                <li>Teste sua criação e faça os ajustes necessários.</li>
+                <li>Compartilhe sua aventura com a comunidade.</li>
+            </ol>
+        </div>
+    </section>
+
+    <section id="tabela">
+        <div class="container">
+            <h2>Tipos de Mundos</h2>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Descrição</th>
+                        <th>Nível</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>Fantasia</td>
+                        <td>Reinos mágicos, criaturas e aventuras.</td>
+                        <td>Iniciante</td>
+                    </tr>
+
+                    <tr>
+                        <td>Ficção Científica</td>
+                        <td>Exploração espacial e tecnologia futurista.</td>
+                        <td>Intermediário</td>
+                    </tr>
+
+                    <tr>
+                        <td>Aventura</td>
+                        <td>Exploração, desafios e descobertas.</td>
+                        <td>Avançado</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <section id="video">
+        <div class="container">
+            <h2>Conheça o World Forge</h2>
+
+            <p>
+                Assista ao vídeo de introdução e conheça um pouco mais
+                sobre a proposta da plataforma.
+            </p>
+
+            <video controls>
+                <source src="https://www.worldforge.com/intro.mp4" type="video/mp4">
+                Seu navegador não suporta a reprodução de vídeos.
+            </video>
+        </div>
+    </section>
+
+    <section id="contato">
+        <div class="container">
+            <h2>Contato</h2>
+
+            <p>
+                Para dúvidas, sugestões ou suporte, entre em contato
+                conosco através do e-mail:
+            </p>
+
+            <p>
+                <a href="mailto:exemplo@gmail.com">
+                    exemplo@gmail.com
+                </a>
+            </p>
+
+            <p>
+                <a class="botao" href="https://www.worldforge.com" target="_blank">
+                    Visite nosso site oficial
+                </a>
+            </p>
+        </div>
+    </section>
+
+    <aside>
+        <div class="container">
+            <h2>Dica para Criadores</h2>
+
+            <p>
+                Explore diferentes ideias e combine elementos para criar
+                experiências únicas para outros jogadores.
+            </p>
+
+            <a href="#inicio">Voltar ao início</a>
+        </div>
+    </aside>
+</body>
+</main>
+
+<footer>
+    <div class="container">
+
+        <h2>World Forge</h2>
+
+        <p>
+            Obrigado por visitar o World Forge! Esperamos que você
+            aproveite sua experiência e se junte à nossa comunidade
+            de criadores.
+        </p>
+
+        <nav>
+            <ul>
+                <li>
+                    <a href="https://www.worldforge.com/terms" target="_blank">
+                        Termos de Serviço
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.worldforge.com/privacy" target="_blank">
+                        Política de Privacidade
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.worldforge.com/contact" target="_blank">
+                        Contato
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <section class="redes-sociais">
+            <h3>Redes Sociais</h3>
+
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/worldforge" target="_blank">
+                        Facebook
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.twitter.com/worldforge" target="_blank">
+                        Twitter
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.instagram.com/worldforge" target="_blank">
+                        Instagram
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.youtube.com/worldforge" target="_blank">
+                        YouTube
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+        <p class="copyright">
+            © 2026 World Forge. Todos os direitos reservados.
+        </p>
+
+    </div>
+</footer>
+
+</html>
