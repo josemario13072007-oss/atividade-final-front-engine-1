@@ -11,6 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal"
         },
+
         {
             "name": "Launch Chrome",
             "request": "launch",
